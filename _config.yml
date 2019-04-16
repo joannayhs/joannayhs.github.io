@@ -1,11 +1,11 @@
 # Site settings
 author: Joanna Yuhas
-title: 
+title: Just Your Average Jo
 header-img: img/home-bg.png
 email: joannayuhas@gmail.com
 copyright_name: Joanna Yuhas
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Un-Extraordinary Tale of Learning Something New
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  joannayhs
