@@ -31,4 +31,4 @@ Could I actually become a Software Engineer?
 
 Let's find out! In complete leap-of-faith style, I decided to try. I decided to drown out the insecurities and see what I can do. I'm stepping into discomfort and uncertainty and I'm trusting that I'll land on my feet. 
 
-For anyone who stumbles upon this blog hoping to find some kind of guarantee that you'll suceed in the field, you won't find it here. What you'll find instead is an ordinary girl, trying something new and if I can do it, you can, too. 
+For anyone who stumbles upon this blog hoping to find some kind of guarantee that you'll succeed in the field, you won't find it here. What you'll find instead is an ordinary girl, trying something new and if I can do it, you can, too. 
