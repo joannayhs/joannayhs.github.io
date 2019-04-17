@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Software Engineering?!"
-date:       2019-04-17 02:22:25 +0000
+date:       2019-04-16 22:22:26 -0400
 permalink:  software_engineering
 ---
 
@@ -12,7 +12,7 @@ Once the idea popped into my head, it made all the sense in the world. I'm not s
 
 ![](https://image-store.slidesharecdn.com/390e3177-b199-4651-a926-6caacc8dd85e-original.png)
 
-The diagram above does a pretty good job of illustrating the internal stuggle in my brain when trying to think through career paths. Do I do something I love? Do I focus on something the world need? Do I just work to make money? Do I do something because I can, even if I don't love it? Welcome to my mind. Sorry it's such a mess! 
+The diagram above does a pretty good job of illustrating the internal stuggle in my brain when trying to think through career paths. Do I do something I love? Do I focus on something the world needs? Do I just work to make money? Do I do something because I can, even if I don't love it? Welcome to my mind. Sorry it's such a mess! 
 
 I've never really been able to find something that balances each area of venn diagram. The past two years, I've been working as an administrative assistant at a Christian non-profit organization in Philadelphia. That does a pretty good job at meeting a need in the world and I'm pretty good at it, but I don't love the work itself and it definitely doesn't pay the bills.
 
