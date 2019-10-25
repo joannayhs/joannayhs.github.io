@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ecclesia Connect: Rails Project"
-date:       2019-10-25 21:38:30 +0000
+date:       2019-10-25 17:38:32 -0400
 permalink:  ecclesia_connect_rails_project
 ---
 
